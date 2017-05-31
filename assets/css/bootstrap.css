@@ -342,6 +342,7 @@ img {
 
 .img-responsive {
   display: block;
+  opacity: 0.5;
   height: auto;
   max-width: 100%;
 }
@@ -786,6 +787,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  opacity: 1.0;
 }
 
 .container:before,
