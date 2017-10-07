@@ -111,12 +111,33 @@ a:after {
 .form-control {
 	height: 42px;
 	font-size: 18px;
-	width: 280px;
+	
 }
 
 i {
 	margin: 8px;
 	color: #21b8e6;
+}
+
+#signupwrap {
+    background-image: url(../img/ipadUse.JPG);
+    margin-top: -20px;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 450px;
+    width: 100%;
+
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
 
 
@@ -128,7 +149,7 @@ i {
 	padding-top:200px;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 750px;
 	width: 100%;
 
     -webkit-background-size: 100%;
