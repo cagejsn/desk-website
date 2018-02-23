@@ -831,6 +831,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+
 }
 
 .row:before,
@@ -4489,7 +4490,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-brand {
-  float: right;
+  float: center;
   padding: 15px 15px 15px 0px;
   font-size: 40px;
   line-height: 48px;
